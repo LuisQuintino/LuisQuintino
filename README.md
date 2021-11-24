@@ -1,4 +1,9 @@
 ## Bem vindo! Me chamo Luís. ##
+
+<div>
+<img align="right"  alt="SwordFish"  src="https://github.com/LuisQuintino/LuisQuintino/blob/main/Logos/bebop3.png">
+</div>
+##
  <div>
   <a href="https://github.com/LuisQuintino">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisQuintino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -13,7 +18,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="30" src="https://github.com/andrefreddi/andrefreddi/blob/main/imagens/c.png">
    <img align="center" alt="C" height="30" width="30" src="https://github.com/LuisQuintino/LuisQuintino/blob/main/Logos/c%23.png">
-  <img align="right"  alt="gif"  src="https://github.com/LuisQuintino/LuisQuintino/blob/main/Logos/bebop3.png">
 </div>
  
  ##
