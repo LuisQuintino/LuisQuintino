@@ -1,8 +1,8 @@
 ## Bem vindo! Me chamo Luís. ##
  <div>
   <a href="https://github.com/LuisQuintino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisQuintino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisQuintino&layout=compact&langs_count=7&theme=monokai"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisQuintino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisQuintino&layout=compact&langs_count=7&theme=monokai"/>
  </div>
   
   #
