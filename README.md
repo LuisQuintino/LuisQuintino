@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/LuisQuintino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisQuintino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisQuintino&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisQuintino&layout=compact&langs_count=7&theme=monokai"/>128 <img ali128="right"  alt="gif"   height="128" width="128" src="https://github.com/LuisQuintino/LuisQuintino/blob/main/Logos/bebop.gif">
 </div>
   
   #
