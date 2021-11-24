@@ -1,4 +1,4 @@
-## Ola! Eu sou Andre Freddi 
+## Bem vindo! Me chamo Luís. ##
  <div>
   <a href="https://github.com/LuisQuintino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisQuintino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
 </div>
  
  ##
- 
+                                                                <p></p>
  <div> 
   <a href = "mailto:luis.v.quintino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-quintino-a50614226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
