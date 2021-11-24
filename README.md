@@ -3,7 +3,6 @@
 <div>
 <img align="right"  alt="SwordFish"  src="https://github.com/LuisQuintino/LuisQuintino/blob/main/Logos/bebop3.png">
 </div>
-#
  <div>
   <a href="https://github.com/LuisQuintino">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisQuintino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
